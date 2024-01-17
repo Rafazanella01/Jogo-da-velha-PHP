@@ -1,2 +1,1 @@
-# Jogo-da-velha-PHP
-# Jogo-da-velha-PHP
+Este é um projeto de estudo feito pelo Aluno Rafael Schafer Zanella no Programa de Desenvolvimento de Novos Talentos
